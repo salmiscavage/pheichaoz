@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://shiezuugei.davidjc.com/sitemap.xml
